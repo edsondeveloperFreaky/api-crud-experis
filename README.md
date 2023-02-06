@@ -2,7 +2,7 @@
 #### . Desarrollado con SDK .Net 5
 #### . Baje el patrón de diseño Clean Architecture
 #### . Acceso a datos con Dapper y validaciones con FluentValidation
-#### . Base de datos SQL serve 18
+#### . Base de datos SQL server 18
 
 # Ejecución
 #### Luego de clonar el proyecto no olvidar ejecutar `dotnet build`
